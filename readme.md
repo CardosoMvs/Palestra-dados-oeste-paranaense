@@ -6,13 +6,11 @@ A palestra foi ministrada por **Marcos Cardoso**, Engenheiro Florestal, no dia *
 
 > **"O Que os Dados do MapBiomas Contam Sobre o Passado e Presente do Oeste do Paraná?"**
 
-O conteúdo apresentado baseou-se nas séries históricas do **MapBiomas**, abordando as transformações no uso e cobertura da terra na região Oeste do Paraná. A análise envolveu o processamento e a visualização de **dados espaciais** para entender as dinâmicas **socioambientais** ao longo do tempo.
+O conteúdo apresentado baseou-se nas séries históricas do **MapBiomas**, abordando as transformações no uso e cobertura da terra e as propriedade do solo na região Oeste do Paraná. A análise envolveu o processamento e a visualização de **dados espaciais** para entender as dinâmicas **socioambientais** ao longo do tempo.
 
 ---
 
 ## 🎞️ Apresentação (Infográfico)
-
-![Apresentação Infográfico](fig/gif-apresentacao.gif)
 
 --- 
 
