@@ -1,0 +1,533 @@
+---
+title: "graficos"
+author: "Marcos Cardoso"
+date: "2025-04-09"
+output: html_document
+---
+
+```{r}
+library(readxl)
+library(dplyr)
+library(ggplot2)
+
+dados <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx")
+
+dados_2023 <- dados %>%
+  filter(ano == 2023) %>%
+  group_by(intervalo_de_COS) %>%
+  summarise(area_ha = sum(area_ha, na.rm = TRUE)) %>%
+  mutate(percentual = area_ha / sum(area_ha) * 100)
+
+cores <- c(
+  "1. 0 até 10 ton/ha" = "#fff1c8ff",
+  "2. 10 até 20 ton/ha" = "#f8e3a2ff",
+  "3. 20 até 30 ton/ha" = "#FCDE84",
+  "4. 30 até 40 ton/ha" = "#FCBA44",
+  "5. 40 até 50 ton/ha" = "#FC8D21",
+  "6. 50 até 60 ton/ha" = "#E96612",
+  "7. 60 até 70 ton/ha" = "#C54204",
+  "8. 70 até 80 ton/ha" = "#902D08",
+  "9. mais de 80 ton/h" = "#5A1F09"
+)
+
+ggplot(dados_2023, aes(x = 2, y = area_ha, fill = intervalo_de_COS)) +
+  geom_bar(stat = "identity", width = 0.3, color = "white") +
+  coord_polar(theta = "y") +
+  scale_fill_manual(values = cores) +
+  xlim(0.3, 2.5) +
+  theme_void() +
+  theme(legend.title = element_blank())
+
+print(dados_2023 %>% mutate(percentual = sprintf("%.1f%%", percentual)))
+print(dados_2023%>% summarise(area_ha, na.rm =TRUE))
+
+ggsave(
+  filename = "C:/Users/marco/Downloads/OESTE-PR/grafico_donut_COS_2023.png",  # Caminho + nome do arquivo
+  plot = last_plot(),  # Salva o último gráfico gerado
+  width = 12,          # Largura (em polegadas)
+  height = 10,         # Altura (em polegadas)
+  dpi = 600,          # Resolução (300 para alta qualidade)
+  bg = "transparent"        # Fundo branco
+)
+
+## EXTRA 
+
+# Análise específica para intervalo 50-60 ton/ha em Formação Florestal
+analise_floresta <- dados %>%
+  filter(
+    ano == 2023,
+    intervalo_de_COS == "6. 50 até 60 ton/ha",
+    cobertura_n1_1 == "Formação Florestal"
+  ) %>%
+  summarise(
+    area_total = sum(area_ha, na.rm = TRUE),
+    .groups = 'drop'
+  )
+
+# Verificação de consistência
+total_intervalo <- dados %>%
+  filter(
+    ano == 2023,
+    intervalo_de_COS == "6. 50 até 60 ton/ha"
+  ) %>%
+  summarise(
+    area_total = sum(area_ha, na.rm = TRUE),
+    .groups = 'drop'
+  )
+
+# Resultados
+cat("\n=== ANÁLISE DE CONSISTÊNCIA ===\n")
+cat("Total área 50-60 ton/ha (2023):", total_intervalo$area_total, "ha\n")
+cat("Área Formação Florestal 50-60 ton/ha (2023):", analise_floresta$area_total, "ha\n")
+cat("Percentual:", round(analise_floresta$area_total / total_intervalo$area_total * 100, 1), "%\n")
+
+```
+
+```{r}
+library(readxl)
+library(dplyr)
+
+# Carregar os dados
+dados <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx")
+
+# Agregar totais de área e toneladas para 2023
+dados_2023_agregados <- dados %>%
+  filter(ano == 2023) %>%
+  summarise(
+    total_toneladas = sum(toneladas_de_COS, na.rm = TRUE),
+    total_area_ha = sum(area_ha, na.rm = TRUE)
+  ) %>%
+  mutate(t_ha_agregado = total_toneladas / total_area_ha)  # Cálculo final de t/ha
+
+# Visualizar o resultado
+print(dados_2023_agregados)
+```
+
+```{r}
+library(readxl)
+library(dplyr)
+
+# Carregar os dados
+dados <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx")
+
+# Somar a coluna toneladas_de_COS
+soma_total <- sum(dados$toneladas_de_COS, na.rm = TRUE)
+
+# Mostrar o resultado
+print(paste("Total de toneladas de COS:", soma_total))
+```
+```{r}
+# --------------------------------------
+# GRÁFICO DE LINHAS: TONELADAS DE COS POR USO E COBERTURA (COM EIXO AJUSTADO)
+# --------------------------------------
+
+library(readxl)
+library(dplyr)
+library(ggplot2)
+library(scales)
+
+# 1. CARREGAR E PROCESSAR DADOS
+dados <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")) %>%
+  group_by(ano, cobertura_n4) %>%
+  summarise(
+    toneladas_total = sum(toneladas_de_COS, na.rm = TRUE) / 1000000,  # Convertendo para 100 mil toneladas
+    .groups = 'drop'
+  ) %>%
+  mutate(
+    cobertura_n4 = factor(cobertura_n4,
+                         levels = c("Soja", "Outras Lavouras Temporárias", 
+                                   "Pastagem", "Formação Florestal"),
+                         labels = c("Soja", "Outras Lavouras\nTemporárias", 
+                                    "Pastagem", "Formação\nFlorestal"))
+  )
+
+# 2. PALETA DE CORES
+cores <- c(
+  "Soja" = "#f5b3c8",
+  "Outras Lavouras\nTemporárias" = "#f54ca9",
+  "Pastagem" = "#edde8e",
+  "Formação\nFlorestal" = "#1f8d49"
+)
+
+# 3. CRIAR O GRÁFICO COM EIXO AJUSTADO
+# 3. CRIAR O GRÁFICO COM EIXO AJUSTADO (SEM BOLINHAS)
+ggplot(dados, aes(x = ano, y = toneladas_total, color = cobertura_n4)) +
+  geom_line(linewidth = 1.5, alpha = 0.8) +  # MANTÉM APENAS A LINHA
+  scale_color_manual(values = cores) +
+  scale_x_continuous(breaks = seq(1985, 2023, by = 5)) +
+  scale_y_continuous(
+    limits = c(0, max(dados$toneladas_total) * 1.1),
+    breaks = pretty_breaks(n = 6),
+    labels = label_number(accuracy = 1),
+    expand = expansion(mult = c(0, 0.05))
+  ) +
+  labs(
+    title = "EVOLUÇÃO DAS TONELADAS DE COS POR USO E COBERTURA",
+    subtitle = "Valores em milhões toneladas",
+    x = NULL,
+    y = "TONELADAS DE COS (Milhões t)",
+    color = "USO E COBERTURA:",
+    caption = "Fonte: Elaboração própria com dados do MapBiomas"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title = element_text(face = "bold", hjust = 0.5, size = 16),
+    plot.subtitle = element_text(hjust = 0.5, color = "gray40", size = 14),
+    legend.position = "bottom",
+    legend.title = element_text(face = "bold", size = 12),
+    legend.text = element_text(size = 11),
+    axis.text = element_text(size = 11),
+    axis.title.y = element_text(face = "bold", size = 12, margin = margin(r = 10)),
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_line(color = "gray90", linewidth = 0.2),
+    panel.background = element_rect(fill = "white", color = NA),
+    plot.background = element_rect(fill = "white", color = NA),
+    legend.key = element_rect(fill = "white", color = NA)
+  )
+
+
+# 4. SALVAR O GRÁFICO
+ggsave(
+  filename = "C:/Users/marco/Downloads/OESTE-PR/evolucao_lulc_toneladas_COS_ajustado.png",
+  width = 12,
+  height = 8,
+  dpi = 300,
+  bg = "white"
+)
+
+# Visualizar os dados brutos para 1985 e 2023
+dados_brutos <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(
+    ano %in% c(1985, 2023),
+    cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")
+  ) %>%
+  group_by(ano, cobertura_n4) %>%
+  summarise(
+    toneladas_COS_bruto = sum(toneladas_de_COS, na.rm = TRUE),
+    toneladas_COS_100mil = toneladas_COS_bruto / 100000,
+    .groups = 'drop'
+  )
+
+# Imprimir no console
+print(dados_brutos)
+
+```
+```{r}
+# 1. CARREGAR E PROCESSAR DADOS POR UF
+dados_uf <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")) %>%
+  group_by(unidade_federativa, ano, cobertura_n4) %>%
+  summarise(
+    toneladas_total = sum(toneladas_de_COS, na.rm = TRUE) / 1000000,
+    .groups = 'drop'
+  ) %>%
+  mutate(
+    cobertura_n4 = factor(cobertura_n4,
+                          levels = c("Soja", "Outras Lavouras Temporárias", 
+                                     "Pastagem", "Formação Florestal"),
+                          labels = c("Soja", "Outras Lavouras\nTemporárias", 
+                                     "Pastagem", "Formação\nFlorestal"))
+  )
+
+# 2. DEFINIR CORES (se ainda não estiver definido)
+cores <- c(
+  "Soja" = "#f5b3c8",
+  "Outras Lavouras\nTemporárias" = "#f54ca9",
+  "Pastagem" = "#edde8e",
+  "Formação\nFlorestal" = "#1f8d49"
+)
+
+# 3. LOOP PARA SALVAR UM GRÁFICO POR UF
+ufs <- unique(dados_uf$unidade_federativa)
+
+for (uf in ufs) {
+  dados_filtrados <- dados_uf %>% filter(unidade_federativa == uf)
+  
+  p <- ggplot(dados_filtrados, aes(x = ano, y = toneladas_total, color = cobertura_n4)) +
+    geom_line(linewidth = 1.5, alpha = 0.8) +
+    scale_color_manual(values = cores) +
+    scale_x_continuous(breaks = seq(1985, 2023, by = 10)) +
+    scale_y_continuous(
+      labels = label_number(accuracy = 1),
+      expand = expansion(mult = c(0, 0.05))
+    ) +
+    labs(
+      title = paste("Evolução das Toneladas de COS -", uf),
+      subtitle = "Valores em milhões de toneladas",
+      x = NULL,
+      y = "TONELADAS DE COS (Milhões t)",
+      color = "Uso e Cobertura:",
+      caption = "Fonte: Elaboração própria com dados do MapBiomas"
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+      plot.title = element_text(face = "bold", hjust = 0.5, size = 15),
+      plot.subtitle = element_text(hjust = 0.5, color = "gray40", size = 12),
+      legend.position = "bottom",
+      legend.title = element_text(face = "bold"),
+      panel.grid.minor = element_blank(),
+      panel.grid.major = element_line(color = "gray90", linewidth = 0.2)
+    )
+  
+  # Salvar o gráfico com nome baseado na UF
+  ggsave(
+    filename = paste0("C:/Users/marco/Downloads/OESTE-PR/grafico_COS_", uf, ".png"),
+    plot = p,
+    width = 10,
+    height = 6,
+    dpi = 300,
+    bg = "white"
+  )
+}
+
+```
+
+```{r}
+# 1. CARREGAR E PROCESSAR DADOS POR UF
+dados_uf <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")) %>%
+  group_by(unidade_federativa, ano, cobertura_n4) %>%
+  summarise(
+    toneladas_total = sum(toneladas_de_COS, na.rm = TRUE) / 1000000,
+    .groups = 'drop'
+  ) %>%
+  mutate(
+    cobertura_n4 = factor(cobertura_n4,
+                          levels = c("Soja", "Outras Lavouras Temporárias", 
+                                     "Pastagem", "Formação Florestal"),
+                          labels = c("Soja", "Outras Lavouras\nTemporárias", 
+                                     "Pastagem", "Formação\nFlorestal"))
+  )
+
+# 2. DEFINIR CORES (se ainda não estiver definido)
+cores <- c(
+  "Soja" = "#f5b3c8",
+  "Outras Lavouras\nTemporárias" = "#f54ca9",
+  "Pastagem" = "#edde8e",
+  "Formação\nFlorestal" = "#1f8d49"
+)
+
+# 3. LOOP PARA SALVAR UM GRÁFICO POR UF
+ufs <- unique(dados_uf$unidade_federativa)
+
+for (uf in ufs) {
+  dados_filtrados <- dados_uf %>% filter(unidade_federativa == uf)
+  
+  p <- ggplot(dados_filtrados, aes(x = ano, y = toneladas_total, color = cobertura_n4)) +
+    geom_line(linewidth = 1.5, alpha = 0.8) +
+    scale_color_manual(values = cores) +
+    scale_x_continuous(breaks = seq(1985, 2023, by = 10)) +
+    scale_y_continuous(
+      labels = label_number(accuracy = 1),
+      expand = expansion(mult = c(0, 0.05))
+    ) +
+    labs(
+      title = paste("Evolução das Toneladas de COS -", uf),
+      subtitle = "Valores em milhões de toneladas",
+      x = NULL,
+      y = "TONELADAS DE COS (Milhões t)",
+      color = "Uso e Cobertura:",
+      caption = "Fonte: Elaboração própria com dados do MapBiomas"
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+      plot.title = element_text(face = "bold", hjust = 0.5, size = 15),
+      plot.subtitle = element_text(hjust = 0.5, color = "gray40", size = 12),
+      legend.position = "bottom",
+      legend.title = element_text(face = "bold"),
+      panel.grid.minor = element_blank(),
+      panel.grid.major = element_line(color = "gray90", linewidth = 0.2)
+    )
+  
+  # Salvar o gráfico com nome baseado na UF
+  ggsave(
+    filename = paste0("C:/Users/marco/Downloads/OESTE-PR/grafico_COS_", uf, ".png"),
+    plot = p,
+    width = 10,
+    height = 6,
+    dpi = 300,
+    bg = "white"
+  )
+}
+
+```
+
+```{r}
+# 1. CARREGAR E PROCESSAR DADOS POR UF EM t/ha
+dados_uf <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")) %>%
+  group_by(unidade_federativa, ano, cobertura_n4) %>%
+  summarise(
+    t_ha = sum(toneladas_de_COS, na.rm = TRUE) / sum(area_ha, na.rm = TRUE),
+    .groups = 'drop'
+  ) %>%
+  mutate(
+    cobertura_n4 = factor(cobertura_n4,
+                          levels = c("Soja", "Outras Lavouras Temporárias", 
+                                     "Pastagem", "Formação Florestal"),
+                          labels = c("Soja", "Outras Lavouras\nTemporárias", 
+                                     "Pastagem", "Formação\nFlorestal"))
+  )
+
+# 2. DEFINIR CORES (se ainda não estiver definido)
+cores <- c(
+  "Soja" = "#f5b3c8",
+  "Outras Lavouras\nTemporárias" = "#f54ca9",
+  "Pastagem" = "#edde8e",
+  "Formação\nFlorestal" = "#1f8d49"
+)
+
+# 3. LOOP PARA SALVAR UM GRÁFICO POR UF — em t/ha
+ufs <- unique(dados_uf$unidade_federativa)
+
+for (uf in ufs) {
+  dados_filtrados <- dados_uf %>% filter(unidade_federativa == uf)
+  
+  p <- ggplot(dados_filtrados, aes(x = ano, y = t_ha, color = cobertura_n4)) +
+    geom_line(linewidth = 1.5, alpha = 0.8) +
+    scale_color_manual(values = cores) +
+    scale_x_continuous(breaks = seq(1985, 2023, by = 10)) +
+    scale_y_continuous(
+      labels = label_number(accuracy = 0.01),  # Duas casas decimais
+      expand = expansion(mult = c(0, 0.05))
+    ) +
+    labs(
+      title = paste("Evolução da Intensidade de COS -", uf),
+      subtitle = "Toneladas por hectare (t/ha)",
+      x = NULL,
+      y = "COS (t/ha)",
+      color = "Uso e Cobertura:",
+      caption = "Fonte: Elaboração própria com dados do MapBiomas"
+    ) +
+    theme_minimal(base_size = 12) +
+    theme(
+      plot.title = element_text(face = "bold", hjust = 0.5, size = 15),
+      plot.subtitle = element_text(hjust = 0.5, color = "gray40", size = 12),
+      legend.position = "bottom",
+      legend.title = element_text(face = "bold"),
+      panel.grid.minor = element_blank(),
+      panel.grid.major = element_line(color = "gray90", linewidth = 0.2)
+    )
+  
+  # Salvar o gráfico com nome baseado na UF
+  ggsave(
+    filename = paste0("C:/Users/marco/Downloads/OESTE-PR/grafico_COS_t_ha_", uf, ".png"),
+    plot = p,
+    width = 10,
+    height = 6,
+    dpi = 300,
+    bg = "white"
+  )
+}
+
+```
+
+
+```{r}
+# 1. CARREGAR E PROCESSAR DADOS POR UF
+dados_uf <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")) %>%
+  group_by(unidade_federativa, ano, cobertura_n4) %>%
+  summarise(
+    toneladas_COS = sum(toneladas_de_COS, na.rm = TRUE),
+    area_ha = sum(area_ha, na.rm = TRUE),
+    .groups = 'drop'
+  ) %>%
+  mutate(
+    t_ha = toneladas_COS / area_ha,
+    cobertura_n4 = factor(cobertura_n4,
+                          levels = c("Soja", "Outras Lavouras Temporárias", 
+                                     "Pastagem", "Formação Florestal"),
+                          labels = c("Soja", "Outras Lavouras\nTemporárias", 
+                                     "Pastagem", "Formação\nFlorestal"))
+  )
+
+# 2. DEFINIR CORES
+cores <- c(
+  "Soja" = "#f5b3c8",
+  "Outras Lavouras\nTemporárias" = "#f54ca9",
+  "Pastagem" = "#edde8e",
+  "Formação\nFlorestal" = "#1f8d49"
+)
+
+# 3. LOOP PARA GERAR E SALVAR OS GRÁFICOS
+ufs <- unique(dados_uf$unidade_federativa)
+
+for (uf in ufs) {
+  dados_filtrados <- dados_uf %>% filter(unidade_federativa == uf)
+  
+  p <- ggplot(dados_filtrados, aes(x = ano, y = t_ha, color = cobertura_n4)) +
+    geom_line(linewidth = 1.5, alpha = 0.8) +
+    scale_color_manual(values = cores) +
+    scale_x_continuous(breaks = seq(1985, 2023, by = 10)) +
+    scale_y_continuous(
+      labels = label_number(accuracy = 1),
+      expand = expansion(mult = c(0, 0.05))
+    ) +
+    labs(
+      title = paste("Evolução da Intensidade de COS -", uf),
+      subtitle = "Toneladas por hectare (t/ha)",
+      x = NULL,
+      y = "COS (t/ha)",
+      color = "Uso e Cobertura:",
+      caption = "Fonte: Elaboração própria com dados do MapBiomas"
+    ) +
+    theme_minimal(base_size = 16) +
+    theme(
+      plot.title = element_text(face = "bold", hjust = 0.5, size = 20),
+      plot.subtitle = element_text(hjust = 0.5, color = "gray40", size = 16),
+      legend.position = "bottom",
+      legend.title = element_text(face = "bold", size = 14),
+      legend.text = element_text(size = 13),
+      axis.text = element_text(size = 13),
+      axis.title.y = element_text(face = "bold", size = 14, margin = margin(r = 10)),
+      panel.grid.minor = element_blank(),
+      panel.grid.major = element_line(color = "gray90", linewidth = 0.2)
+    )
+  
+  ggsave(
+    filename = paste0("C:/Users/marco/Downloads/OESTE-PR/grafico_COS_t_ha_", uf, ".png"),
+    plot = p,
+    width = 10,
+    height = 6,
+    dpi = 300,
+    bg = "white"
+  )
+}
+
+# 4. PRINT NO CONSOLE: toneladas, área e t/ha para 1985 e 2023
+t_ha_filtrado <- dados_uf %>%
+  filter(ano %in% c(1985, 2023)) %>%
+  arrange(unidade_federativa, cobertura_n4, ano)
+
+cat("\n--- t/ha por uso e cobertura (com área e toneladas) ---\n")
+print(t_ha_filtrado)
+
+
+# 5. PRINT NO CONSOLE
+
+```
+
+```{r}
+t_ha_geral <- read_excel("C:/Users/marco/Downloads/OESTE-PR/dados_cruzados_85_23.xlsx") %>%
+  filter(cobertura_n4 %in% c("Soja", "Outras Lavouras Temporárias", "Pastagem", "Formação Florestal")) %>%
+  group_by(unidade_federativa, ano) %>%
+  summarise(
+    t_ha_geral = sum(toneladas_de_COS, na.rm = TRUE) / sum(area_ha, na.rm = TRUE),
+    .groups = 'drop'
+  ) %>%
+  filter(ano %in% c(1985, 2023)) %>%
+  arrange(unidade_federativa, ano)
+
+cat("\n--- t/ha por uso e cobertura (1985 e 2023) ---\n")
+print(
+  dados_uf %>%
+    filter(ano %in% c(1985, 2023)) %>%
+    arrange(unidade_federativa, cobertura_n4, ano)
+)
+
+cat("\n--- t/ha geral por unidade federativa (1985 e 2023) ---\n")
+print(t_ha_geral)
+```
+
