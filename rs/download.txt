@@ -1,0 +1,9 @@
+COLE NO NAVEGADOR O LINK PARA REALIZAR O DOWLOAD
+
+Textura (0-30cm)
+https://storage.googleapis.com/mapbiomas-public/initiatives/brasil/collection_9/soil_2/mbsoil_c02_textural_classes/mbsoil_c02_textural_classes_000_030cm.tif
+
+COS (0-30cm, 1985-2023)*
+https://storage.googleapis.com/mapbiomas-public/initiatives/brasil/collection_9/soil_2/mbsoil_c02_soc_t_ha_000_030cm/mbsoil_c02_soc_t_ha_000_030cm_prediction_2023.tif
+
+*Altere o ano ao final do link, para obter outro ano correspondente.
