@@ -1,1 +1,46 @@
--
+# 🌱 O Que os Dados do MapBiomas Contam Sobre o Passado e Presente do Oeste do Paraná?
+
+Este repositório reúne os materiais apresentados por mim, Marcos Cardoso (Engenheiro Florestal), durante o **II Workshop Solos e Informação de Solos do Brasil**, realizado nos dias **10 e 11 de abril de 2025**, no **Campus Santa Helena da UTFPR**.
+
+---
+
+## 📍 Sobre o Evento
+
+O workshop teve como foco a produção e uso de informações para o manejo e conservação do solo nos biomas brasileiros. Durante a programação, ocorreram mesas redondas, palestras e debates com pesquisadores de diversas instituições.
+
+📅 **Data da apresentação:** 11/04/2025  
+📌 **Tema da palestra:**  
+**“O Que os Dados do MapBiomas Contam Sobre o Passado e Presente do Oeste do Paraná?”**  
+📍 **Local:** Auditório Professor Daniel Rodrigues Blanco
+
+---
+
+## 📂 Conteúdo deste Repositório
+
+Este repositório contém:
+
+- ✅ **Scripts em R** utilizados para processar e visualizar os dados
+- ✅ **Conjuntos de dados** agregados e organizados a partir do MapBiomas
+- ✅ **Gráficos e figuras** produzidos para análise e apresentação
+- ✅ **Apresentação final** no formato de infográfico (em PDF ou imagem)
+
+---
+
+## 🖼️ Apresentação
+
+![Apresentação](fig/gif-apresentacao.gif)
+
+> *Figura: Gif da apresentação “O Que os Dados do MapBiomas Contam Sobre o Passado e Presente do Oeste do Paraná?”*
+
+---
+
+## 💬 Contato
+
+Fique à vontade para explorar, usar e adaptar o conteúdo.  
+Dúvidas ou colaborações? Me chama por aqui ou via e-mail: **cardoso.mvs@gmail.com**
+
+---
+
+**Fonte dos dados:** [MapBiomas – Projeto de Mapeamento Anual da Cobertura e Uso do Solo no Brasil](https://mapbiomas.org)
+
+---
