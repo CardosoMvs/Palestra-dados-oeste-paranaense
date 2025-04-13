@@ -9,7 +9,7 @@ O conteúdo apresentado teve como base as séries históricas do MapBiomas, dest
 
 🎞️ Apresentação (Infográfico)
 
-![Apresentação Infográfico](gif-apresentacao.gif)
+![Apresentação Infográfico](fig/gif-apresentacao.gif)
 
 📂 Conteúdo Disponível
 Scripts em R utilizados na análise;
