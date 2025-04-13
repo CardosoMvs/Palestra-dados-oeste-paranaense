@@ -1,0 +1,450 @@
+classe textural int,Classe textural,cobertura int,Cobertura n0,Cobertura n1_1,Cobertura n2,Cobertura n3,Cobertura n4,intervalo de cos,Intervalo de COS,Ano,Unidade Federativa,Área ha,Toneladas de COS
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Toledo,0.1635321044921875,8.013073120117188
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Cascavel,0.081471240234375,4.1550332519531255
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Toledo,0.08176655883789062,4.088327941894531
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Cascavel,0.32452634887695314,20.93197940673828
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Cascavel,0.48766784667968754,23.895724487304687
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,2.026165606689453,99.28211472778321
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Toledo,11.261236962890626,551.8006111816406
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,7.498515716552734,367.427270111084
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Cascavel,2969.071186016842,171428.26698248973
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,4737.313401934803,272481.39478738565
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Toledo,3892.0760708618063,218431.3310831601
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,1416.6815981811535,78958.67015503466
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Cascavel,22928.44379757681,1517422.4963952876
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,5142.664699633829,314852.7468755612
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Toledo,1275.69280151367,78330.53190406493
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,79.83435163574224,4820.777771124282
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Cascavel,3775.738971386764,268063.32130128983
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,7.360517254638673,522.517484625244
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Toledo,9.516561669921877,680.637644769287
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Cascavel,93.31410825195309,7819.608391815182
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Cascavel,0.081290625,3.983240625
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Cascavel,167.02249027099654,9656.738298144528
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,10.275589154052735,568.4758020019532
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Toledo,148.11708219604478,8042.183022772213
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Cascavel,4756.029257537826,310330.50979076215
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,0.8900876770019532,57.0462223083496
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Toledo,8.540956402587893,519.1266539916992
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,7,8. 70 até 80 ton/ha,2002,Cascavel,99.23781674194332,6977.565163214105
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,8,9. mais de 80 ton/h,2002,Cascavel,0.24345059204101566,20.044099157714843
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,0.08118466796875,3.9780487304687497
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Toledo,17.163334259033203,841.0033786926269
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,0.08141245727539062,3.9892104064941405
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Cascavel,2.2793312866210944,134.15493914794922
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,4.046709869384766,227.74862630004884
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Toledo,69.1458171386718,3529.1487770873996
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,0.16287889404296874,8.225410968017577
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2002,Cascavel,1.6280929504394535,97.76698225097655
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,0.48574346923828127,29.22561528930664
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Cascavel,16.06666740722656,787.2667029541016
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,228.8204375610342,11212.201439593548
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Toledo,1779.1346965698103,87176.37358814712
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,98.78740008544916,4840.501015802
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Cascavel,3067.823634259037,169659.0697354735
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,1480.6454512939456,79139.53282279683
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Toledo,3007.332242858875,154646.78378451528
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,228.7529084228514,11560.90308129273
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Cascavel,8763.278486529573,565879.4140223154
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,42.97063052368162,2593.129953247069
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Toledo,109.3311711608888,6717.1905691894535
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2002,Cascavel,405.58686352539087,29799.436266760204
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2002,Toledo,0.3255326416015625,22.787284912109374
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2002,Cascavel,39.1833605102539,3149.760774707032
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Cascavel,22.170799108886712,1086.3691563354494
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,434.7331844604494,21301.76375892343
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Toledo,1849.0803454467832,90604.36458851949
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,467.33997868041956,22899.333003576437
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Cascavel,3521.564037536613,194752.3030814208
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,3652.7185550903323,196357.40349612595
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Toledo,5262.4910155456555,273697.22704057023
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,952.6624687316885,48406.68864105214
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Cascavel,13863.661751428715,899538.1276986571
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,201.51878969726573,12183.951512512213
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Toledo,314.78001836547867,19295.02598112184
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,0.4073109802246094,24.438658813476565
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Cascavel,400.56976968994246,28941.67884857177
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Toledo,1.138470935058594,80.09918585205078
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Cascavel,57.277641082763715,4612.230611956776
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Cascavel,5337.986392804238,0.0
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Foz do Iguaçu,2501.5909824768205,0.0
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Toledo,3236.1972264404358,0.0
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Marechal Cândido Rondon,645.4017854187068,0.0
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,4.777278845214843,234.08666341552725
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Toledo,4.80712084350586,235.5489213317871
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,6.4377983276367186,315.4521180541992
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Cascavel,32.08836086425782,1779.428138183593
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,63.61988829345713,3459.3104883056617
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Toledo,64.72449768676758,3416.8110009582524
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,24.70105989990233,1272.8791315612789
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Cascavel,158.32414067993165,10339.202720648213
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,17.15302115478515,1049.5706799133304
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Toledo,13.174816754150392,833.6050190063477
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,0.24424426269531252,14.654655761718752
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2002,Cascavel,8.69290391845703,617.5957975036621
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2002,Toledo,2.7671268127441406,198.98895932006832
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,8,9. mais de 80 ton/h,2002,Cascavel,0.24331978149414063,19.70888897705078
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Cascavel,318.7618281249994,15619.329577825936
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,10112.329304235978,495502.10981610685
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Toledo,27558.833577575184,1350371.5820553415
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,9970.084298938094,488535.1913352875
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Cascavel,60779.32792745791,3323133.642424421
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,51496.578833039275,2741594.00727421
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Toledo,245505.4094470541,1.2830856198112346E7
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,28733.82970892794,1455202.3439362515
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Cascavel,140415.5784127377,9169481.165036658
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,1596.9877040100116,97045.19127139234
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Toledo,37438.9287848884,2370655.5591122075
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,93.12619141235383,5777.568400122095
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Cascavel,8451.292442627218,602755.1332344988
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,1.6985639892578122,118.98036269531248
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Toledo,325.92789703979355,22928.858934307962
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2002,Cascavel,70.26239598999024,5706.259644720452
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Cascavel,94.5087054138184,4630.926565277098
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,1678.5508162964009,82248.58459847992
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Toledo,8603.278317883438,421556.63699495455
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,2526.6606615417627,123804.82388433277
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Cascavel,18604.311794122168,1012522.5580064675
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,5819.57591710816,305219.82016976003
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Toledo,29189.76794344451,1506860.8381543418
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,5183.631700396639,262341.16667082463
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Cascavel,39608.505946423844,2559599.1363908616
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,116.79903509521482,7122.065110217285
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Toledo,1346.1729882263185,84212.82182388924
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,1.5485248474121094,93.56340563964844
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Cascavel,1964.4465647888244,141369.5476322401
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,0.08088451538085938,5.661916076660156
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Toledo,11.227543829345711,790.4025249328611
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2002,Cascavel,54.92506511840817,4422.565005120844
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Cascavel,0.1629568786621094,7.98488705444336
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Toledo,1.1420875122070313,55.962288098144526
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2002,Cascavel,74.47837287597653,4177.761996240233
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2002,Toledo,32.77242038574217,1698.4967028137212
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2002,Cascavel,605.0750131896964,39227.36405491942
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2002,Toledo,1.3834756042480472,85.85701497192382
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,7,8. 70 até 80 ton/ha,2002,Cascavel,16.148931420898446,1157.9330085266117
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,8,9. mais de 80 ton/h,2002,Cascavel,0.8925491638183592,71.89082216796875
+1,Muito argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,6,7. 60 até 70 ton/ha,2002,Cascavel,3.570194854736328,233.28174447021485
+1,Muito argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,7,8. 70 até 80 ton/ha,2002,Cascavel,0.162313623046875,12.01120810546875
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Cascavel,0.08137522583007813,3.987386065673828
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Toledo,1.0610849121093748,51.339880963134775
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Cascavel,1.6234009643554685,93.09895272216797
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Toledo,1.7137548278808594,89.27458164672854
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Cascavel,1.8658355834960934,114.38413372802732
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Toledo,0.0812350341796875,5.036572119140625
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Cascavel,491.32369086914053,23926.06760534668
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,363.33944965820206,17646.867389428662
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Toledo,2821.6121319702042,136546.44842403545
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,2246.6316649963455,108470.87536972655
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Cascavel,74253.39393820259,4239223.28740371
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,28744.615472100973,1641848.9418598039
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Toledo,32451.270885955328,1793620.3118429738
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,14474.239110138145,787746.3893038144
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Cascavel,134729.4341034996,8333617.719187453
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,27784.123378516426,1699844.4309656532
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Toledo,9074.93845022586,552728.8781001024
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,817.0659140625014,49357.47436701052
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Cascavel,771.0630780944826,55089.94238619994
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,422.7273052978519,30574.849171850514
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Toledo,80.07531685180679,5721.879849011228
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Cascavel,39.674285876464836,3368.7403291625924
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,204.1551275024416,18211.592130950958
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Toledo,81.74122379150457,7564.258272723389
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Cascavel,9.16654088134766,440.87152235717775
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Toledo,71.76028538208006,3505.1736853576676
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,0.16299339599609375,7.660689611816407
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Cascavel,774.4596276245139,44468.42928771981
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,14.08508529663086,794.1965699890136
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Toledo,668.9554099365239,35876.36912034913
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Cascavel,3270.233702062992,204674.02109203933
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,27.363720330810512,1701.4899564575178
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Toledo,76.423973742676,4608.224945379646
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,7,8. 70 até 80 ton/ha,2002,Cascavel,2.0291839965820313,142.85405715942383
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Cascavel,0.9755476684570313,46.01332634277344
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,8.416729089355469,406.7556665222168
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Toledo,681.4897729003935,32617.111925500278
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,10.512779931640626,503.8769313049316
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Cascavel,20.510366351318357,1193.5282951599113
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,29.22366657714844,1619.9231609924313
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Toledo,362.43015130004807,18941.88953218383
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,7.253296813964844,372.9357326232911
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2002,Cascavel,12.048197967529298,723.2989165832522
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,7.935491271972655,493.2933021484374
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2002,Toledo,4.073300549316406,246.10715762329102
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,0.3238373291015625,22.668613037109374
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Cascavel,8493.052946246338,411439.75217653817
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,3243.7045592834475,156893.35404758123
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Toledo,22109.387834125402,1057809.902007188
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,4789.628129022195,229568.33264701703
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Cascavel,107736.58902153293,5951754.20997371
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,15092.910646283071,806772.588575402
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Toledo,23514.145207549984,1229398.8990725
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,3123.7275751159827,161490.95876195224
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Cascavel,38492.540331012104,2360255.849154554
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,328.33230631103515,19923.42300947874
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Toledo,512.6617963867184,30991.410394665407
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,0.0814554443359375,4.88732666015625
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2002,Cascavel,186.91796227416992,13901.091699798624
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,4.453706164550781,321.1527558532714
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2002,Cascavel,14.359932727050792,1149.3627684631344
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,2.1071575988769538,183.48726976318358
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Cascavel,4309.045458355709,208851.07703638906
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,4550.52482241824,220033.1314936926
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Toledo,21324.232712231613,1026554.1380225127
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,10696.72032255261,512503.4874982028
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Cascavel,73085.35984202109,4053971.7541976916
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,21334.04581143147,1149283.4329097553
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Toledo,32814.983490539795,1726580.9381465577
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,6418.358873687749,331026.20095468103
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Cascavel,35792.35572308335,2207174.0731119826
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,1560.7833514892575,94932.20659271853
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Toledo,1112.8439802062996,67861.99578038936
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,8.149216577148437,490.500121862793
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Cascavel,109.89817499999998,8076.484817651356
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,22.529512384033207,1597.8154379333494
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Toledo,1.3813739440917967,98.89066224975583
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Cascavel,26.123818322753905,2092.0959730590803
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,19.122712890624992,1661.158449365235
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Toledo,1.7084839599609376,148.39404722900395
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Cascavel,4885.190726819169,0.0
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Foz do Iguaçu,4171.315275604244,0.0
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Toledo,4016.9067179809986,0.0
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Marechal Cândido Rondon,1147.3507104370035,0.0
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Cascavel,3.5678018737792967,172.06576561279297
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,10.361720587158201,502.9469757019043
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Toledo,7.010963360595704,338.072891015625
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,6.27490669555664,302.0105754455566
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Cascavel,25.716915057373043,1426.953582086182
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,73.0820839782714,3976.422180255123
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Toledo,16.21954505004883,858.4202380615234
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,7.580679089355469,392.73186337280276
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Cascavel,19.809013690185548,1221.5076673950196
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,4.449865753173826,267.7201701538087
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Toledo,0.5688979553222655,34.78408103027344
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2002,Cascavel,0.5685285949707031,42.636656402587896
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Cascavel,2789.2242758911098,135199.4115500063
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,9169.400677404717,444045.12046091165
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Toledo,32316.479076812604,1554313.1336525613
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,16396.763650689707,785639.5629518563
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Cascavel,35713.31557076305,1968498.742256266
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,29168.688006200897,1555339.4160308118
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Toledo,27522.565975378522,1437186.635432391
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,8784.182719604529,447041.15608997084
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Cascavel,21134.903497967553,1333750.1940632234
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,1003.0487874633781,61058.97126837139
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Toledo,2387.20881853636,152448.82565831853
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,9.93424748535157,598.3348192382815
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Cascavel,529.810499005123,37405.205277880894
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,48.23849733886723,3403.9545185913075
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Toledo,40.76848463745105,2864.4548401794445
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,8.924641406250002,766.2196210937502
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Cascavel,6417.525027032463,310374.99290212395
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,3301.832771716302,159572.15901413304
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Toledo,26340.29021460567,1264585.8710178728
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,10278.062572528217,491637.8467622554
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Cascavel,54003.121613188494,2962038.9903573426
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,8895.95736592409,470136.57899119955
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Toledo,23230.470080486855,1209758.7142648757
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,4783.118277935753,243998.6761728207
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Cascavel,20189.567241718163,1251636.9857006057
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,140.48360155639648,8519.404263165277
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Toledo,720.1587438903819,44279.09370023803
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,2.2808227905273437,137.0937442565918
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Cascavel,60.57292708740234,4390.04432376099
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,4.779510461425781,340.80282503662113
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Toledo,1.2202977172851563,86.07164602661133
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2002,Cascavel,4.218875708007811,337.7534559631346
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,22.135760559082073,1918.836729956054
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Cascavel,10.996427624511718,534.1808481689453
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Toledo,50.01512402343752,2396.802898608401
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,1.1418710510253909,53.58640137939453
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2002,Cascavel,168.39979788208012,9510.576979919437
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2002,Toledo,33.97144711914061,1758.4971156982429
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2002,Cascavel,335.04334410400367,21011.75086737059
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2002,Toledo,1.3014985412597655,80.69142491455078
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,7,8. 70 até 80 ton/ha,2002,Cascavel,2.109399407958984,160.801074609375
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,8,9. mais de 80 ton/h,2002,Cascavel,0.5679245727539063,45.433965820312494
+2,Argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,5,6. 50 até 60 ton/ha,2002,Cascavel,0.081235205078125,4.792877099609375
+2,Argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,6,7. 60 até 70 ton/ha,2002,Cascavel,1.865196893310547,117.18428431396484
+3,Siltosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Cascavel,0.72960908203125,42.074369403076176
+3,Siltosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Cascavel,6.162920782470704,379.1013530822754
+3,Siltosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Cascavel,4.297399926757813,247.46676462402343
+3,Siltosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Cascavel,2.109147442626953,126.87328080444335
+3,Siltosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Cascavel,1.2981758056640622,74.8891760925293
+3,Siltosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Cascavel,2.7563188964843754,166.75658052368166
+3,Siltosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Cascavel,0.16225867309570313,9.411003039550781
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Cascavel,18.59629036254883,663.2985581054687
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,1.946163439941406,68.60225313110351
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Toledo,1.0608018737792968,38.10703983764648
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,0.8154583557128906,28.948842364501953
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Toledo,0.24466033325195313,9.94951993408203
+4,Arenosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,3,4. 30 até 40 ton/ha,2002,Toledo,0.16366944580078124,5.728430603027344
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Cascavel,32.7607528564453,1168.1943785156243
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,0.5676172973632813,19.866605407714843
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Toledo,30.73042277832031,1079.3241223937987
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,6.605583801269531,232.17403284912115
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Cascavel,1.7015714294433593,69.76443390502929
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Cascavel,9.244570269775389,329.96318057250977
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,0.7284262145996094,25.494917510986326
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Toledo,13.647918286132814,479.7217557312013
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,6.277997973632811,221.93113420410157
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Cascavel,0.4861580810546875,19.68940263061523
+4,Arenosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Cascavel,0.5661422302246094,0.0
+4,Arenosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Toledo,11.267185540771486,0.0
+4,Arenosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Marechal Cândido Rondon,2.5273673034667965,0.0
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Cascavel,2.1858143432617188,75.20942806396482
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Toledo,27.924483978271482,987.4007722229002
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,32.9464251098633,1163.4826237487796
+4,Arenosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Cascavel,0.7293397766113282,25.12229524536133
+4,Arenosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Toledo,42.54997916870117,1500.6017480407709
+4,Arenosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,17.208026062011722,607.5824055908205
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Toledo,0.08177396850585937,3.9251504882812496
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Cascavel,0.6507044616699218,35.05674642944336
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Cascavel,0.08108648071289062,4.946275323486328
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Cascavel,112.95795329589835,4206.159815527341
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,63.61924982299802,2344.7095074340814
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Toledo,54.57090415649414,2040.4228497741706
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,41.99611931762692,1573.2638759521492
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Cascavel,4786.5008115356595,227124.49110527377
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,1452.3416295593286,67812.9394129087
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Toledo,1699.9945296691856,79409.62140952768
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,864.7441961242648,39963.739837499976
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Cascavel,32670.322942431143,1812306.779303491
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,7296.759383490078,404200.6145424757
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Toledo,2426.753463354488,133143.57642136834
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,672.2394670104989,37605.45387297997
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Cascavel,15889.689036669908,965830.0666614205
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,4470.434892504867,276413.19939159567
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Toledo,1274.4749456665047,78790.53018232856
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,192.2130339050288,11714.709820367354
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Cascavel,0.08110647583007813,5.677453308105469
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,247.12666027832003,17911.11186164551
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Toledo,95.86331588745139,6886.837345349115
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2002,Marechal Cândido Rondon,6.106257977294918,458.2950565246584
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,276.2218420532218,25506.737560632315
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Toledo,43.34636723632809,3940.3271386108427
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2002,Marechal Cândido Rondon,4.477967138671874,378.3475098022461
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,3,4. 30 até 40 ton/ha,2002,Cascavel,0.32477994384765624,12.504636706542968
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Cascavel,25.39673106689454,1193.9409959594725
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Toledo,1.1417140991210935,50.39561285400391
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,0.08149695434570313,3.585865991210938
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Cascavel,109.67275342407208,6147.674669226076
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2002,Toledo,0.8939486206054688,46.648090454101556
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Cascavel,34.83734512939452,2096.005600817872
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,1.1333650939941404,69.05431569213869
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,3,4. 30 até 40 ton/ha,2002,Toledo,774.7618286620689,28638.36120198973
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,0.24466631469726563,8.971098205566406
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Cascavel,0.08129617309570313,3.739623962402344
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,3.156344030761719,147.37392200317385
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Toledo,3234.424412549053,139817.58068513047
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,0.2446649475097656,10.439037817382811
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,1.7807412902832034,99.96345146484376
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2002,Toledo,147.00831790161124,8096.666985180666
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2002,Toledo,2.3681551818847657,142.8259110229492
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Cascavel,712.8705263366705,26527.790576733387
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,36.01305574951168,1337.2437755065914
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Toledo,583.2681496887204,21585.127026196267
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,32.290637640380865,1205.8416690917973
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Cascavel,19359.161418444604,905709.4257636567
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,1204.5198641479542,55804.82904004487
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Toledo,4711.775531042506,212728.60317526222
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,353.64145373535143,15766.249103210444
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Cascavel,28442.47121192074,1560775.461542671
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,698.6978018005352,37282.42374128425
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Toledo,938.5036510253897,49096.129323767076
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,34.31558493652343,1756.6318933959965
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Cascavel,1913.4401493957528,114894.66020731241
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,33.99861402587891,2107.5370040344233
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2002,Toledo,0.894062255859375,54.94527259521484
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,5.509799426269534,398.4911616943358
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2002,Toledo,0.0813931640625,6.023094140625
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,3.647305181884767,312.28881801147463
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Cascavel,232.60640452880855,8603.40624096069
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,97.02483463134769,3585.7750890563957
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Toledo,325.68498582763704,12078.256699377436
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,108.28962355957019,4037.2114591735835
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Cascavel,9589.38517575073,450761.829436139
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,1663.2836964233484,76986.9929632079
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Toledo,3236.070093487538,146770.7115582031
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,848.890387872317,37644.139542541496
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Cascavel,14386.726319396968,787768.0183010035
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,1006.5236742370596,54574.20063179938
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Toledo,1127.17033796997,59511.82969572145
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,163.8361425842284,8746.65223629761
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Cascavel,1388.3864466003386,83615.0729617555
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,350.0940095153816,21817.5619830994
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Toledo,99.22684236450196,6145.731525421137
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,10.585797192382813,650.4547684692384
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Cascavel,0.08109683227539062,5.676778259277343
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,33.14421784667968,2380.970838665773
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Toledo,3.9015502075195316,279.0432323303223
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2002,Marechal Cândido Rondon,1.3026728393554687,96.1535470703125
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Cascavel,0.081133984375,6.652986718749999
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,37.03502095336912,3329.52340480957
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Toledo,0.7322167968750001,61.668913720703124
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2002,Marechal Cândido Rondon,0.32567031860351564,26.379294946289065
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Cascavel,178.50883323974597,0.0
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Foz do Iguaçu,2319.11235000614,0.0
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Toledo,525.0672385131829,0.0
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2002,Marechal Cândido Rondon,241.97544511718786,0.0
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2002,Cascavel,1.132214263916016,41.81102618408203
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,1.8597436096191409,69.21505697631834
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Cascavel,8.169699810791021,371.19843860473617
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,41.35007584228516,1942.4837036743147
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Toledo,14.718371569824216,679.3225555297853
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,0.7334244567871093,35.93779838256836
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Cascavel,9.79121271362304,544.5738458862301
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,42.817346905517574,2326.4636388366666
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Toledo,7.6801460754394535,412.9277638549805
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,1.1410081787109376,57.45816658935547
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Cascavel,0.24352471923828126,14.69260277709961
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,11.575254589843748,712.4045284057613
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2002,Cascavel,0.24329084472656248,17.5169443359375
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,0.6478186828613282,46.96685317993164
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,0.08097766723632813,6.640168713378906
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Cascavel,75.06177593383788,2758.1100529418945
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,27.84601813964843,1046.5863145812984
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Toledo,324.3621428344726,12118.29546210328
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,277.95786720581066,10350.336619982958
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Cascavel,776.9494574523927,35941.08210518186
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,1727.948892523192,79809.66006667489
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Toledo,2917.4140411254875,129336.25023555885
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,1883.206118096935,82399.64409004529
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Cascavel,453.34189878540036,24236.166078900154
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,1147.0111437439064,61810.400250030725
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Toledo,602.6135953735343,32157.18247673335
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,189.6613429992672,10260.244451538048
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Cascavel,36.65586881713867,2247.3628803100582
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,428.203167523197,26717.16346995846
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Toledo,48.507032171630925,2964.9346191406303
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,8.630322845458988,555.9229620178219
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,58.50421444702155,4151.018878930665
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2002,Marechal Cândido Rondon,10.584309130859378,776.0740898803713
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,28.046850793457047,2440.2871830749527
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2002,Marechal Cândido Rondon,0.40708380126953125,34.683539526367184
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Cascavel,346.3226041748039,12784.78719520265
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Foz do Iguaçu,17.262361047363278,641.0554441345215
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Toledo,395.11728531494134,14710.635364392088
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2002,Marechal Cândido Rondon,176.56333126220687,6558.294887542712
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Cascavel,4662.148761437994,215786.0700821605
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Foz do Iguaçu,695.4798442749025,32105.884642578236
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Toledo,2640.484747320566,116488.08458321505
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,915.6757051574706,39872.03385543823
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Cascavel,2512.3608655578605,135317.351407306
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Foz do Iguaçu,394.15017480468845,21241.506708135985
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Toledo,352.3478410522464,18457.475100634765
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2002,Marechal Cândido Rondon,73.91609860229492,3912.5228677917453
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Cascavel,106.46664237060553,6415.398569812009
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Foz do Iguaçu,133.70998709106397,8405.669630145267
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Toledo,5.774483728027343,351.02198931274415
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2002,Marechal Cândido Rondon,0.16289990234375,9.773994140625001
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Cascavel,0.24345535278320313,17.04187469482422
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2002,Foz do Iguaçu,49.984251812744155,3548.9784094787574
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2002,Cascavel,0.24340159301757813,20.36459826049805
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2002,Foz do Iguaçu,28.20374540405276,2453.4723330505353
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,3,4. 30 até 40 ton/ha,2002,Toledo,0.24482818603515624,9.140286010742187
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Cascavel,1.2992192504882811,62.84983106689453
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Toledo,0.8977659057617188,39.012011322021486
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2002,Marechal Cândido Rondon,0.08158135986328124,3.4264171142578124
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2002,Cascavel,7.555993383789063,424.02092633666996
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2002,Cascavel,1.54275849609375,93.13417012939453

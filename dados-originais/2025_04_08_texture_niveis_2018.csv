@@ -1,0 +1,480 @@
+classe textural int,Classe textural,cobertura int,Cobertura n0,Cobertura n1_1,Cobertura n2,Cobertura n3,Cobertura n4,intervalo de cos,Intervalo de COS,Ano,Unidade Federativa,Área ha,Toneladas de COS
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Toledo,0.08176588745117187,4.006528485107422
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Cascavel,0.1629423095703125,8.391528857421875
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Toledo,0.08138557739257812,4.150664447021485
+1,Muito argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Cascavel,0.4056428405761719,26.4479850769043
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Cascavel,0.8956041931152343,43.88460546264648
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,3.48553392944336,170.7911625427246
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Toledo,42.11314711303711,2063.5442085388186
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,20.868611004638673,1022.561939227295
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Cascavel,3404.27916265259,196066.6269880755
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,4856.132370800774,278757.26771916717
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Toledo,4601.800627398676,257145.5470692253
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,1482.2449457580553,82652.97813719415
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Cascavel,26483.112614361395,1751184.1127067788
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,5718.994817999273,350347.99714921165
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Toledo,1644.4462645568854,100937.42538371567
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,129.19491923828122,7814.096903631607
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Cascavel,3882.5505467041316,275593.5087336622
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,8.331741070556642,590.4222228149414
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Toledo,8.703000982666017,620.4339749877929
+1,Muito argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Cascavel,108.56437702636715,9086.933722534177
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,0.8103060852050782,39.70499817504883
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Toledo,23.90697739257813,1171.4418922363282
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,1.9571917236328127,95.90239445800782
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Cascavel,203.0460456054689,11503.036793707275
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,28.484068865966787,1568.9621403747556
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Toledo,361.76984039306683,19240.065095452883
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,5.625907226562499,287.56914992675786
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Cascavel,5652.998178088359,369675.42595724534
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,3.2361357666015613,209.78268045654303
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Toledo,21.39470693359375,1308.5612713317869
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,7,8. 70 até 80 ton/ha,2018,Cascavel,181.26510211181616,12900.046587750227
+1,Muito argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,8,9. mais de 80 ton/h,2018,Cascavel,8.274364276123045,668.6832423645016
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Toledo,19.944944445800783,977.3022778442381
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,0.16282405395507812,7.978378643798829
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Cascavel,1.5467140563964843,90.5233983276367
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,4.614985467529297,257.62295460205075
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Toledo,83.29232030639643,4267.447009533687
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,0.08141262817382812,4.070631408691406
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Cascavel,1.6280834777832034,98.09203444824217
+1,Muito argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,0.6474982238769531,39.01190770263672
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Cascavel,12.990066711425783,636.5132688598634
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,38.4051976257324,1881.854683660889
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Toledo,411.81737886352624,20178.64322163701
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,35.45253558959962,1737.0927142517082
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Cascavel,1475.1858075866699,81331.25867749016
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,457.37950042724583,24207.6985836486
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Toledo,963.8822187316898,50158.79420466919
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,87.49145750122074,4422.370039282227
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Cascavel,5053.852329339598,326639.1082814998
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,5.744761297607423,346.30339868164066
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Toledo,82.21367767333986,5110.330397344972
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2018,Cascavel,267.9012345581056,19595.139362036163
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2018,Toledo,0.813583563232422,57.60171533813477
+1,Muito argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2018,Cascavel,17.440548590087882,1398.8135840026853
+1,Muito argilosa,20,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Cana,5,6. 50 até 60 ton/ha,2018,Cascavel,0.081471240234375,4.562389453125
+1,Muito argilosa,20,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Cana,5,6. 50 até 60 ton/ha,2018,Toledo,0.16258627929687502,8.4544865234375
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Cascavel,46.96803637695313,2301.4337824707036
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,832.7949352294914,40806.14114635008
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Toledo,2675.100019573981,131077.53776944577
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,1236.8065766174254,60602.29938165928
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Cascavel,5397.763189025885,296786.8825572559
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,4188.78683823242,223678.94041985468
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Toledo,8370.511717572057,434564.9002097958
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,1675.9080031189103,84933.54891320156
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Cascavel,15082.946889673274,976709.0324396213
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,160.71690659179683,9740.451863647462
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Toledo,468.6375340576186,29006.898716864038
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,0.7337795043945312,44.02677026367188
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Cascavel,590.7923712280264,42756.77361221314
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Toledo,2.3599255493164057,166.00864711914068
+1,Muito argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Cascavel,70.90722677001955,5703.247480249035
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Cascavel,7937.672620721872,0.0
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Foz do Iguaçu,3566.6374710876444,0.0
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Toledo,5591.423664031986,0.0
+1,Muito argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Marechal Cândido Rondon,1131.6110186279263,0.0
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Cascavel,1.0541332641601562,51.652529943847654
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,12.238953662109374,599.7087294433592
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Toledo,24.509577062988285,1200.9692760864257
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,24.038188391113284,1177.8712311645506
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Cascavel,270.90503901977524,14954.549778973398
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,183.98100831298825,9996.24297485351
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Toledo,386.93080055541975,20291.37241231079
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,109.31788833618153,5588.089327252195
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Cascavel,537.9754725524914,34918.367731048595
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,55.10676475219722,3388.7852068664542
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Toledo,53.22438095703127,3379.5138953735336
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,0.24424426269531252,14.654655761718752
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2018,Cascavel,32.907607196044914,2338.8568589782712
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2018,Toledo,4.312990826416017,307.1987293212889
+1,Muito argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,8,9. mais de 80 ton/h,2018,Cascavel,0.2434021240234375,20.36464426269531
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Cascavel,623.5418351684556,30553.549922656188
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,12780.696090252399,626250.6236133217
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Toledo,51590.30766992047,2527880.663336604
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,16593.436939679057,813073.9258584398
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Cascavel,74645.01541265739,4072354.0170890237
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,53409.34121332892,2835212.0681037167
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Toledo,248876.01233803222,1.2988380538090056E7
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,26390.595850829028,1337005.3304814757
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Cascavel,167473.1898099598,1.0908114155939158E7
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,1560.4822942260769,94812.63283533277
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Toledo,36561.235714641865,2314642.5271474705
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,88.15579005737322,5461.256856927515
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Cascavel,10041.383869091438,717144.951605277
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,1.7794485046386714,124.64227877197264
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Toledo,345.2871254699695,24283.920445807
+1,Muito argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2018,Cascavel,120.7281966918947,9787.418371887214
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Cascavel,31.401136108398454,1538.6556693115235
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,254.2739358276371,12459.260624530043
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Toledo,1336.1173495300268,65468.688492462315
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,565.4489291564945,27706.589658044348
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Cascavel,3374.7631378234805,183505.93828399666
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,1275.1078539611826,67088.40087810686
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Toledo,5882.992759252935,305109.2811315557
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,865.3137742370601,43827.71558928223
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Cascavel,7046.525951080241,455217.3118026895
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,35.12000159912109,2138.752779193115
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Toledo,420.55360347900523,26455.603982702658
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,0.4076900939941406,24.461405639648437
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2018,Cascavel,261.21880859375017,18695.349648718253
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2018,Toledo,1.5456803955078127,108.76705254516601
+1,Muito argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2018,Cascavel,9.653594055175788,773.6667382324222
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Cascavel,1.0580865478515624,51.84624084472656
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Toledo,5.8734483215332025,287.79896775512697
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Cascavel,169.70579038696297,9455.60591203003
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Toledo,141.0932136657714,7365.012021289055
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,0.7333111267089845,36.665556335449224
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2018,Cascavel,915.1387473144546,59261.269742193545
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2018,Toledo,15.627713415527355,983.4812752197266
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,7,8. 70 até 80 ton/ha,2018,Cascavel,39.605826562499985,2822.071362579346
+1,Muito argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,8,9. mais de 80 ton/h,2018,Cascavel,3.5696946044921867,287.5227783386231
+1,Muito argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,6,7. 60 até 70 ton/ha,2018,Cascavel,4.6262398620605465,303.6300879699707
+1,Muito argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,7,8. 70 até 80 ton/ha,2018,Cascavel,0.162313623046875,12.01120810546875
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Toledo,1.3063329650878908,63.11144953613281
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Cascavel,1.05582080078125,58.553936694335945
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Toledo,1.5492156738281249,79.57814993896484
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Cascavel,1.2984366821289062,79.36615872802734
+2,Argilosa,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Toledo,0.16247302246093748,9.748381347656249
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Cascavel,1083.2506026367191,52696.773117675744
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,931.4801213439935,45163.86224778457
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Toledo,6316.7977057373255,305451.4835927981
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,3693.085921112046,177986.99873566104
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Cascavel,86089.40143707242,4903073.367641751
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,31405.258314136525,1784237.414095847
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Toledo,42869.38039185256,2352093.492258949
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,16455.71846190199,893168.2240260213
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Cascavel,149975.55433503268,9281509.414199675
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,30667.114841889517,1878584.2486714628
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Toledo,11074.18186517341,675401.6942077039
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,1138.7887768310547,68998.45947582443
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Cascavel,860.9026493164064,61544.642406127896
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,450.4483940124517,32695.35577948602
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Toledo,95.52386257324247,6826.520129461669
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Cascavel,53.54793098144525,4492.261396429439
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,219.70948828735342,19664.67461221316
+2,Argilosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Toledo,86.53485298461972,7994.997153741448
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Cascavel,137.47380742797853,6666.287434777833
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,70.58479938964834,3435.234711230463
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Toledo,735.6690085266109,35401.18116262199
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,107.59294249877925,5183.536877514651
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Cascavel,4036.7085954040517,227641.48637732546
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,236.93722730712878,12832.377398779285
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Toledo,1823.0072242065394,97788.18208228753
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,77.84711347656247,3989.433681030274
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Cascavel,7121.659317779536,444819.89886195486
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,31.220815942382806,1883.1224328735339
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Toledo,147.08099278564467,8888.778887689214
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,7,8. 70 até 80 ton/ha,2018,Cascavel,35.61157151489255,2610.498684655764
+2,Argilosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,8,9. mais de 80 ton/h,2018,Cascavel,7.868881817626953,631.7010731140139
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Cascavel,0.8942527099609375,42.11116833496094
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,11.575526202392584,560.7262843078613
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Toledo,744.2815970642071,35719.69384232776
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,14.750276892089843,707.6014951477052
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Cascavel,21.651676727294923,1260.7726373596192
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,40.31385051269533,2216.030778594971
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Toledo,420.95341962890416,22012.03289927974
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,7.90551241455078,407.7477310058594
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Cascavel,14.246256817626959,856.2407484130861
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,11.820517297363281,731.414150793457
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Toledo,4.651897424316406,281.15445128784177
+2,Argilosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,1.133445721435547,80.96041413574218
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Cascavel,7703.800765405277,373157.19359465345
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,1609.5337886779746,77882.88645436351
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Toledo,13165.063045587207,629786.9450648967
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,2376.125788043206,113777.43457496157
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Cascavel,92211.211779522,5095232.000502194
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,8515.467093194497,455189.4649298211
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Toledo,16976.70852850909,886430.5802722474
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,1464.9895594177221,75953.47559595353
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Cascavel,30046.52723194006,1838462.2200768602
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,91.32957037963871,5525.411787915049
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Toledo,320.1352045227065,19415.683459845022
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,0.16289886474609375,9.773931884765625
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2018,Cascavel,143.51468576660147,10652.84124348142
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,4.048812249755858,294.1055986206056
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2018,Toledo,0.5695051879882812,39.9467212890625
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2018,Cascavel,9.00505693359375,720.8915713928219
+2,Argilosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,0.8907460205078126,76.76611150512694
+2,Argilosa,20,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Cana,5,6. 50 até 60 ton/ha,2018,Cascavel,0.6517700927734376,36.82501015625
+2,Argilosa,20,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Cana,5,6. 50 até 60 ton/ha,2018,Toledo,0.48775727539062497,25.68855001220703
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Cascavel,6116.714475842304,296360.0892843202
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,6529.939004919525,315625.62942645
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Toledo,32248.25201665648,1550515.773776318
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,16214.60795280139,776202.3159808744
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Cascavel,75710.77211653895,4179334.5766316163
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,23645.87855474509,1265796.4303515472
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Toledo,35249.380028033265,1847105.7757146975
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,7396.383704626394,379980.6032855079
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Cascavel,30676.61142258898,1892938.3345684318
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,946.1248364929186,57432.43868927603
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Toledo,983.0663319335955,59917.50286694312
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,6.761969506835938,407.1025626586914
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Cascavel,106.06416016235363,7837.110665118404
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,14.342396405029294,1017.6668781249998
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Toledo,0.16261367797851561,11.382957458496094
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Cascavel,26.042929302978525,2091.3039110107434
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,11.833577624511705,1022.5540921447753
+2,Argilosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Toledo,0.325431494140625,27.98710849609375
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Cascavel,5959.279249646558,0.0
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Foz do Iguaçu,5219.48783706672,0.0
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Toledo,5603.620866387831,0.0
+2,Argilosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Marechal Cândido Rondon,1582.7697466308693,0.0
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Cascavel,22.68739494018555,1098.480641369629
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,20.173247583007804,973.9037017395019
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Toledo,50.66056781005859,2444.8129958801273
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,42.300830889892595,2026.524359637451
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Cascavel,159.4253302612305,8825.351070275876
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,108.77018615722659,5887.006773895266
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Toledo,85.74175863037111,4473.378855798339
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,46.525147857666,2378.65908895874
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Cascavel,74.44070565795897,4621.749525085449
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,9.38666071166992,567.2451228332523
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Toledo,0.4070379821777344,26.29429437866211
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2018,Cascavel,0.24383395996093749,17.068377197265626
+2,Argilosa,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,0.16194950561523438,11.984264123535159
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Cascavel,7091.741551068105,343642.37266909773
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,11839.977082995822,573258.0199624822
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Toledo,48605.780086078536,2335101.456715895
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,21199.419578698482,1016487.033010982
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Cascavel,72030.05722950974,3957155.1082831477
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,33532.87351819291,1783786.988418218
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Toledo,33397.29479576966,1736960.982078111
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,9780.494079223625,497377.13011941337
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Cascavel,32939.07445071517,2061247.6149022535
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,1027.0299015441883,62536.65348006578
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Toledo,2501.1213031799125,159259.73499678978
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,10.667098596191412,642.4687407531742
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Cascavel,555.2789692626919,39243.3855297303
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,52.85878345336917,3730.5318134582512
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Toledo,42.63980743408192,2996.5049059387215
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2018,Cascavel,0.9735505371093749,77.88404296874998
+2,Argilosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,30.73673540649419,2657.061079467776
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Cascavel,1384.610260198973,67024.80571016845
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,647.9431372070326,31332.80984963993
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Toledo,5676.106191259774,272764.9853899018
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,1871.8645988647502,89445.52327332161
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Cascavel,11811.080945629928,648101.6106148091
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,2139.786364172365,113825.58265669554
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Toledo,5001.608384857197,261077.041293042
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,715.5744288757326,36583.085460192626
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Cascavel,3886.256962133786,240894.16770349708
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,52.94151911010742,3209.532119360351
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Toledo,188.95013732910127,11670.558641650385
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,0.7331250915527343,43.987505493164065
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2018,Cascavel,14.781945172119144,1058.5112854614258
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,1.9464824096679687,137.3073099243164
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2018,Toledo,0.48817243041992187,34.57888511962891
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2018,Cascavel,0.16223660278320312,12.978928222656249
+2,Argilosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,0.5672938842773438,48.62497249755859
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Cascavel,30.536686853027337,1480.741487194824
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Toledo,224.99812187500018,10795.611027691664
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,1.4673212951660155,69.53443602905274
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Cascavel,411.634540020752,23101.601267150883
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Toledo,106.75018747558595,5541.018760241698
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,0.08148273315429687,4.074136657714844
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2018,Cascavel,480.04345955810504,30055.104017980953
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2018,Toledo,9.682172326660158,601.3535111816406
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,7,8. 70 até 80 ton/ha,2018,Cascavel,3.6521261047363276,268.0626527526855
+2,Argilosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,8,9. mais de 80 ton/h,2018,Cascavel,1.2169778625488281,97.35822900390622
+2,Argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,4,5. 40 até 50 ton/ha,2018,Toledo,0.16322401123046876,7.997976550292969
+2,Argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,5,6. 50 até 60 ton/ha,2018,Toledo,0.32644699707031255,16.403961517333986
+2,Argilosa,48,Antrópico,Agricultura,Agricultura,Lavoura Perene,Outras Lavouras Perenes,6,7. 60 até 70 ton/ha,2018,Cascavel,2.919985797119141,182.2582046569824
+3,Siltosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Cascavel,0.6489248229980469,37.79994595947265
+3,Siltosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Cascavel,6.568490570068359,404.8949588317872
+3,Siltosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Cascavel,0.24301383056640624,14.823843664550779
+3,Siltosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Cascavel,4.945772039794923,284.4240944763184
+3,Siltosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Cascavel,1.378988885498047,82.73933312988281
+3,Siltosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Cascavel,1.5415001342773436,89.16439994506837
+3,Siltosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Cascavel,1.9459800842285158,117.24533863525392
+3,Siltosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Cascavel,0.16215487060546874,9.242819018554687
+3,Siltosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Cascavel,0.08100537109375,4.860322265625
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Cascavel,30.609211218261727,1096.248801965332
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,1.8650745056152345,65.68305202026367
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Toledo,0.7335331726074219,26.40725344238281
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,1.5493325561523439,55.04212501831054
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Cascavel,0.405134375,16.61051201171875
+4,Arenosa,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Toledo,0.24466033325195313,9.94951993408203
+4,Arenosa,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,3,4. 30 até 40 ton/ha,2018,Toledo,0.08151664428710938,2.9345991943359375
+4,Arenosa,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,3,4. 30 até 40 ton/ha,2018,Toledo,0.16366944580078124,5.728430603027344
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Cascavel,15.161548937988284,537.3847356567379
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,0.5676190490722657,19.8666667175293
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Toledo,18.879105657958974,664.198930401611
+4,Arenosa,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,6.033382568359375,213.53247053222657
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Cascavel,14.993854675292962,536.0465186401369
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,0.7284128784179688,25.494450744628907
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Toledo,31.04200045776367,1095.3732455505371
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,16.880682989501956,596.043153149414
+4,Arenosa,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Cascavel,1.782595135498047,72.84332452392577
+4,Arenosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Cascavel,0.5661422302246094,0.0
+4,Arenosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Toledo,15.677459106445317,0.0
+4,Arenosa,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Marechal Cândido Rondon,5.951142614746093,0.0
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Cascavel,2.5094918212890622,86.21446231689451
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,0.08110051879882813,2.838518157958984
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Toledo,51.37644067382807,1809.1237757507324
+4,Arenosa,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,28.78832039184571,1017.7860615539552
+4,Arenosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Cascavel,0.2426609558105469,8.412213995361329
+4,Arenosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Toledo,9.30913956298828,328.92267932739253
+4,Arenosa,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,7.177997485351564,254.3295064086915
+4,Arenosa,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,3,4. 30 até 40 ton/ha,2018,Toledo,0.08159635009765626,2.855872253417969
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2018,Toledo,0.08174599609375,3.0246018554687497
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Cascavel,0.08135467529296875,3.9863790893554687
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Toledo,0.32701549682617187,14.797560003662108
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Cascavel,0.16249150390625,9.09889140625
+5,Média,0,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Toledo,0.16354036254882814,8.504093292236329
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Cascavel,184.62896081542956,6863.936094555661
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,76.32090346679684,2814.421774505612
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Toledo,75.39047421264648,2824.056699731445
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,56.91867028198242,2131.5961538146967
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Cascavel,6192.140460021985,292985.9648989685
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,1640.8664639038025,76529.40353232984
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Toledo,2325.3125581665054,108134.05755635333
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,984.2463672851541,45138.19953419808
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Cascavel,35224.41537905834,1953427.0795944228
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,7321.639936505202,405334.918467183
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Toledo,2676.4872226623484,145641.65098818328
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,662.7494086242712,36527.246257171704
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Cascavel,16865.18810036619,1025208.5711272563
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,4943.791965789763,306273.7501446169
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Toledo,1684.9452173583938,104127.72067197724
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,346.52457982787996,21055.433464209207
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Cascavel,0.08113958129882813,5.6797706909179695
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,265.12816627807535,19275.088293939218
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Toledo,115.77925115356474,8335.825016937248
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,7,8. 70 até 80 ton/ha,2018,Marechal Cândido Rondon,6.106253851318355,458.21333809204117
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,305.6343945922848,28368.77097459115
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Toledo,43.83407845458983,4005.9380871276894
+5,Média,3,Natural,Formação Florestal,Formação Florestal,Formação Florestal,Formação Florestal,8,9. mais de 80 ton/h,2018,Marechal Cândido Rondon,4.640802899169921,392.67705293579115
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,3,4. 30 até 40 ton/ha,2018,Cascavel,9.393482940673827,349.7433953979492
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,0.08104518432617187,3.160762188720703
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,3,4. 30 até 40 ton/ha,2018,Toledo,4.491536108398437,166.84129899291995
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,0.4076109069824219,15.57076635131836
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Cascavel,456.0411040222154,21453.641087823464
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,6.2403206176757795,299.2905089172363
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Toledo,143.7310993225097,6546.391795629883
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,7.907748150634767,351.60774359130863
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Cascavel,644.0651269897455,35558.58544273686
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,8.027218792724607,426.33392324829117
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,5,6. 50 até 60 ton/ha,2018,Toledo,29.275144976806637,1538.6969649963376
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Cascavel,131.54679941406258,7941.608811926271
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,0.48651949462890626,30.002176770019535
+5,Média,9,Antrópico,Silvicultura,Silvicultura,Silvicultura,Silvicultura,6,7. 60 até 70 ton/ha,2018,Toledo,6.01198916625977,365.6751958496095
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,3,4. 30 até 40 ton/ha,2018,Toledo,749.720770556603,27748.745656469735
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,0.24466631469726563,8.971098205566406
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Cascavel,0.08129617309570313,3.739623962402344
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,2.5886553039550786,121.09710675048831
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Toledo,3181.336932489213,137753.53454608092
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,0.6524687316894532,27.73003006591797
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,1.943477276611328,109.80292243652343
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,5,6. 50 até 60 ton/ha,2018,Toledo,150.61462834472644,8297.957432208248
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,0.24284564208984377,15.380333129882812
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,6,7. 60 até 70 ton/ha,2018,Toledo,4.00237431640625,242.8389383361817
+5,Média,11,Natural,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,Campo Alagado e Área Pantanosa,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,0.08096069946289063,5.910131060791016
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Cascavel,604.4029272155769,22514.35199174804
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,33.28827727050779,1228.0037587219238
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Toledo,465.28141699218855,17187.371663543712
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,40.9309112609863,1521.1306233459472
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Cascavel,18017.308943414337,843844.7404606923
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,776.967512030034,36100.842595062255
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Toledo,4068.7013130553864,184726.37085150665
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,234.84817584228495,10378.125310070802
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Cascavel,27980.74071242731,1537684.0211008012
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,586.5887129516586,31260.759852545238
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Toledo,812.4346037597634,42496.23806495969
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,7.983540185546875,410.6670283508301
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Cascavel,1551.8140674438425,93155.41451953731
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,15.299439868164058,946.626534332275
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,6,7. 60 até 70 ton/ha,2018,Toledo,0.0812576416015625,4.87545849609375
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,3.1580771362304687,223.00871970214845
+5,Média,15,Antrópico,Pastagem,Pastagem,Pastagem,Pastagem,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,1.376399420166016,118.77516583251953
+5,Média,20,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Cana,4,5. 40 até 50 ton/ha,2018,Toledo,1.4632796447753904,63.89654222412109
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Cascavel,316.8513739135741,11727.205364245618
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,77.66627351074222,2886.6911827697713
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Toledo,462.78942235717807,17199.81659942626
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,194.32470491943369,7243.995121765132
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Cascavel,9696.46186016847,454418.6233319881
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,1691.2488255920493,78350.4146689084
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Toledo,3934.246976861561,176556.5169321351
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,1233.495550122074,54244.01092269903
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Cascavel,12068.194267419454,658470.127902087
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,959.124716088867,51825.34594142453
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Toledo,973.8275167968744,51335.88587907107
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,138.73577171020503,7362.653909088136
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Cascavel,808.8469738708477,48633.079694433625
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,195.56458284301783,12150.96609395752
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Toledo,36.33544343261716,2260.2679163269054
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,5.619072833251955,348.7059992736817
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Cascavel,0.08113941040039062,5.679758728027343
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,23.173412213134768,1654.0573900024422
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Toledo,1.0567554138183595,74.78576753540038
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,7,8. 70 até 80 ton/ha,2018,Marechal Cândido Rondon,0.8955843811035156,66.27325213623045
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,19.371186572265632,1700.7645928405764
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Toledo,0.2440740478515625,20.502220703125
+5,Média,21,Antrópico,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,Mosaico de Usos,8,9. mais de 80 ton/h,2018,Marechal Cândido Rondon,0.32567031860351564,26.379294946289065
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Cascavel,251.93793832397463,0.0
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Foz do Iguaçu,2558.5579268066926,0.0
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Toledo,741.1792213012716,0.0
+5,Média,24,Antrópico,Outros,Área Urbanizada,Área Urbanizada,Área Urbanizada,0,1. 0 até 10 ton/ha,2018,Marechal Cândido Rondon,323.5870420532223,0.0
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2018,Cascavel,0.729047332763672,26.81316526489258
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,0.7274446044921874,27.561959112548827
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2018,Toledo,0.5709903137207032,21.20887105102539
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,0.24474829711914065,9.055599371337891
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Cascavel,27.865488122558595,1301.006400592041
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,40.30156643066407,1882.2872074584961
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Toledo,34.42060070190428,1574.3671593811039
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,3.423738018798828,158.3078352355957
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Cascavel,10.94623297729492,594.095788006592
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,27.845726763916005,1512.97618739624
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Toledo,8.327260083007815,441.9205287658692
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,2.690076647949219,139.47584138183592
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Cascavel,0.9743265014648439,60.814493975830075
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,15.377829479980473,945.0890358337402
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2018,Cascavel,0.8115263488769531,57.61809640502929
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,1.3765903076171875,98.87159776611325
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,8,9. mais de 80 ton/h,2018,Cascavel,0.3245355773925781,27.585522497558593
+5,Média,25,Antrópico,Outros,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,Outras Áreas não Vegetadas,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,0.1619556884765625,13.280366455078124
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Cascavel,262.6860202026363,9683.559487799073
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,43.80875762329101,1630.6365024353038
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Toledo,551.0377610717778,20543.55430227664
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,282.2155129699712,10523.286752258355
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Cascavel,3668.589751220716,169965.45229517255
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,2250.9444036071836,103837.04967601932
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Toledo,4129.191602032484,181619.11855388738
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,2089.4944663391234,91522.61485282595
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Cascavel,1898.3856058166498,101973.57691972663
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,1377.7217845825276,74331.19251778616
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Toledo,578.4673689331055,30789.996420019525
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,227.4621828979497,12296.1548564392
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Cascavel,96.80934328002932,5842.326833435055
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,546.406630944826,34162.061934942685
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Toledo,24.618145452880857,1517.6310200988794
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,6,7. 60 até 70 ton/ha,2018,Marechal Cândido Rondon,8.630386785888675,555.194050701904
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,105.00591302490226,7446.179649554446
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,7,8. 70 até 80 ton/ha,2018,Marechal Cândido Rondon,11.072814172363282,810.8393656127931
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,56.656954376220654,4919.709046148676
+5,Média,39,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Soja,8,9. mais de 80 ton/h,2018,Marechal Cândido Rondon,0.40708380126953125,34.683539526367184
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Cascavel,71.39504534301759,2633.4558217041017
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Foz do Iguaçu,3.8843032958984396,146.3897812805176
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Toledo,78.45763861083985,2920.964891333008
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,3,4. 30 até 40 ton/ha,2018,Marechal Cândido Rondon,36.78097192993161,1367.74458170166
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Cascavel,1048.1300057922363,48487.5829985412
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Foz do Iguaçu,169.41053067626967,7716.928095043939
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Toledo,415.77092034912107,18349.231735223395
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,189.17577543334986,8147.701433532708
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Cascavel,568.7366047119141,30646.777984234617
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Foz do Iguaçu,47.095761248779304,2526.8631302917483
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Toledo,47.64079573974609,2509.3674092468264
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,5,6. 50 até 60 ton/ha,2018,Marechal Cândido Rondon,5.949005590820313,314.7225283508301
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Cascavel,18.75654257202148,1126.1237088195799
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Foz do Iguaçu,11.186051245117188,701.0858120788574
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,6,7. 60 até 70 ton/ha,2018,Toledo,2.6053372070312495,156.48306818237305
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,7,8. 70 até 80 ton/ha,2018,Foz do Iguaçu,7.2121376159667925,523.4835642822264
+5,Média,41,Antrópico,Agricultura,Agricultura,Lavoura Temporária,Outras Lavouras Temporárias,8,9. mais de 80 ton/h,2018,Foz do Iguaçu,1.9461116577148436,166.3915116333008
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,3,4. 30 até 40 ton/ha,2018,Cascavel,0.2441334411621094,9.195693121337891
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,3,4. 30 até 40 ton/ha,2018,Toledo,5.305271722412107,200.29460986328124
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Cascavel,5.682825280761719,268.22416367187503
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Toledo,23.016166296386725,987.0028550781246
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,4,5. 40 até 50 ton/ha,2018,Marechal Cândido Rondon,0.4892214477539063,20.302690167236328
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Cascavel,13.96002047119141,786.1480840454103
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,5,6. 50 até 60 ton/ha,2018,Toledo,0.48893444824218757,24.446722412109366
+5,Média,46,Antrópico,Agricultura,Agricultura,Lavoura Perene,Café,6,7. 60 até 70 ton/ha,2018,Cascavel,1.0558659729003907,63.35195837402344
