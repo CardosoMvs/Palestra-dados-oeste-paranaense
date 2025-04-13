@@ -14,7 +14,7 @@ O conteúdo apresentado baseou-se nas séries históricas do **MapBiomas**, abor
 
 ![Apresentação Infográfico](fig/gif-apresentacao.gif)
 
----
+--- 
 
 ## 📂 Conteúdo Disponível
 
